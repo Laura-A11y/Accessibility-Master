@@ -21,9 +21,6 @@ This repo is intended to grow over time.
 - [NVDA](https://www.nvaccess.org/download/), a free screen reader
 - Wondering what screen readers people use? Consult the latest [WebAIM screen reader survey](https://webaim.org/projects/screenreadersurvey10/).
 
-## Typography
-- [Typographer vs Accessibility](https://www.youtube.com/watch?v=XQkCBdEEWCE)
-
 ### Alt‑Text
 - Does this image need alt text? Follow the [alt-text decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) by W3C
 - Need some inspiration for what to write? The Nielsen Norman Group has a good article to get you started: [NNG Write Alt Text](https://www.nngroup.com/articles/write-alt-text/)
@@ -32,6 +29,12 @@ This repo is intended to grow over time.
 - [Center of Universal Design](https://design.ncsu.edu/research/center-for-universal-design/)
 - [Universal Design for Learning](https://www.nea.org/professional-excellence/student-engagement/tools-tips/universal-design-learning-introduction) (UDL) – The Why, What, and How of Learning. Especially relevant if you are developing courses, onboarding material, or professional‑development content.
 - [Accessibility: Build the foundation for inclusive learning](https://learn.microsoft.com/en-us/training/courses/accessibility-build-foundation-inclusive-learning) by Microsoft
+
+## Content Creation
+[Creating accessible content with Microsoft 365](https://learn.microsoft.com/en-us/training/modules/accessible-content-m365/) by Microsoft 
+
+## Typography
+- [Typographer vs Accessibility](https://www.youtube.com/watch?v=XQkCBdEEWCE)
 
 ## Laws & Directives
 - [European Accessibility Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882) (EAA) 
@@ -54,3 +57,15 @@ This repo is intended to grow over time.
 
 ## Advanced:
 - [WAI‑ARIA Overview](https://www.w3.org/WAI/standards-guidelines/aria/) WAI‑ARIA stands for Accessible Rich Internet Applications. It defines a way to make web content and applications more accessible, especially dynamic interfaces built with HTML, JavaScript, and related technologies.
+
+## ASP.NET Core
+[Create accessible web apps by using ASP.NET Core](https://learn.microsoft.com/en-us/training/modules/aspnet-core-accessibility/) by Microsoft
+
+## Gaming
+[Gaming accessibility fundamentals](https://learn.microsoft.com/en-us/training/paths/gaming-accessibility-fundamentals/) by Microsoft
+
+parts of [Gaming accessibility fundamentals](https://learn.microsoft.com/en-us/training/paths/gaming-accessibility-fundamentals/) by Microsoft
+- [Introduction to gaming and disability](https://learn.microsoft.com/en-us/training/modules/intro-to-gaming/) by Microsoft
+- [Accessibility best practices for games and platforms](https://learn.microsoft.com/en-us/training/modules/games-and-platforms1/) by Microsoft
+- [Accessibility best practices for gaming hardware](https://learn.microsoft.com/en-us/training/modules/hardware-devices/) by Microsoft
+
