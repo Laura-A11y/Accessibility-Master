@@ -49,5 +49,5 @@ Scott O’Hara https://www.scottohara.me/
 Eric Eggert https://yatil.net/
 Makoto Ueki (a11y Specialist, Infoaxia, Inc.) https://weba11y.jp/news/
 
-##Advanced:
+## Advanced:
 - [WAI‑ARIA Overview](https://www.w3.org/WAI/standards-guidelines/aria/) WAI‑ARIA stands for Accessible Rich Internet Applications. It defines a way to make web content and applications more accessible, especially dynamic interfaces built with HTML, JavaScript, and related technologies.
