@@ -8,6 +8,11 @@ This repo is intended to grow over time.
 - [Accessibility fundamentals](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamentals/) by Microsoft
 - [Learn the basics of web accessibility](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/) by Microsoft
 - [Accessibility Features Reference](https://developer.chrome.com/docs/devtools/accessibility/reference) by Google
+- [Accessibility Resources for Developers](https://www.ssa.gov/accessibility/developer_resources.html) by the US Social Security Administration
+  - [ANDI Web Accessibility Test Tool](https://github.com/SSAgov/ANDI), the Accessible Name & Description Inspector is an open source accessibility test tool you can use to check for 508 compliance of web content.
+  - [SSA 508 Test Method](https://www.ssa.gov/accessibility/testmethod.html) The Social Security Administration uses an Accessibility Test Method based on the Section 508 ICT Testing Baseline.
+  - [YANKI Accessibility Troubleshooting Tool](https://www.ssa.gov/accessibility/yanki/yanki.html) temporarily removes problematic HTML and ARIA attributes
+  - [Alternative Text Guide](https://www.ssa.gov/accessibility/files/SSA_Alternative_Text_Guide.pdf) Alternative text is used to describe images, charts, diagrams, buttons, and other elements in a way that provides information to users. However, there can be issues if the alternative text is incorrect, confusing, or lacks the necessary context. The SSA aims to create meaningful alternative text by following the guidance in this reference guide.
 
 ## POUR Principles:
   1. Perceivable: The user can perceive all website elements with 
