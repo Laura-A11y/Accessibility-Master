@@ -1,4 +1,4 @@
-## Free Accessibility Certifications
+# Free Accessibility Certifications
 I took all of these courses myself, so I’d be able to tell you which ones to pick based on your level of web accessibility proficiency and learning goals. All are free, online, and self-paced.
 
 ## Easy Introductions for Beginners
@@ -17,8 +17,30 @@ This one also addresses key concepts such as disaggregated data, gender perspect
 - Integrate inclusive best practices into learning environments, materials and facilitation approaches
 - Apply do-no-harm principles to avoid unintended negative consequences in training design and implementation
 
-#### [ITC ILO: Disability in the Workplace](https://www.itcilo.org/courses/disability-workplace) (for disability strategy, HR and talent pipeline)
+### [ITC ILO: Disability in the Workplace](https://www.itcilo.org/courses/disability-workplace) (for disability strategy, HR and talent pipeline)
 A bit different from the others, but equally important in theme. This self-paced course by the International Labour Organization (ILO) focuses on building, implementing and evaluating a disability inclusion strategy for your workforce.
 I would particularly recommend it as a starting point for professionals in HR, talent pipeline or company culture.
 It includes a ten questions pre-knowledge assessment. Like the UNITAR course above, it is pretty short.
 
+## Beginners to Intermediate
+These offer a solid foundation across web accessibility basics, user needs, laws and regulations, web and content design, and disability etiquette. They can take you from beginner to a solid intermediate level of understanding.
+
+### [Accessible EU: Accessible Technology Design](https://accessible-eu-centre.ec.europa.eu/content-corner/events/accessibleeu-online-training-accessible-technology-design-4th-edition-26-ot-eu-04-2026-05-25_en?prefLang=es) 
+Already in its 4th edition, the Accessible Technology Design course is open for enrollment until October 31st. I took the course when it first came out and really appreciated how well it was structured. It covers all the basics, and at the same time goes beyond the surface level, so it’s not boring to advanced practitioners. Plus, it’s Accessible EU, so you know it’s a trustworthy source.
+The AccessibleEU Campus regularly opens new courses up, it’s worth bookmarking. The Advanced Accessible Technology Design (building on this one above) begins on 14 September.
+The course consists of 7 modules:
+1. Accessibility and Inclusive Design.
+2. ICT Accessibility Laws and Standards.
+3. Web Content Accessibility Guidelines (WCAG).
+4. Digital Accessibility Myths.
+5. Avoiding Non-Inclusive Design Patterns.
+6. Creating Inclusive Designs.
+7. Cognitive Accessibility
+
+Students will learn about the foundations of universal accessibility in digital environments and gain the knowledge to design for all from the start. They will also understand accessibility and inclusive design as essential goals, grasp the key principles of Universal Design, and distinguish between legal requirements and technical standards, including current European legislation.
+The course also explores why a single, well-designed solution is better than multiple alternatives, and introduces the principles of cognitive accessibility and their crucial role in creating truly inclusive experiences.
+
+### [HDM Stuttgart: Public Courses](https://mooc.hdm-stuttgart.de/local/publiccourses/)
+- **Introduction to Web Accessibility from a User Perspective**: Really, really good one to combine with any other on this list! It centers the experience of people with disabilities and offers tools, solutions and practical exercises. The 4 Modules are divided into: Vision, Hearing, Cognition, and Motor.
+I want to highlight the video on: [How a Blind Developer Uses Visual Studio](https://www.youtube.com/watch?v=wKISPePFrIs)
+- **Accessible Learning and Teaching**: Structured into 2 weeks (with ~20 minutes per day), the course introduces you to WCAG and the gang, but zones in on Universal Design for Learning (UDL) and how web accessibility applies to teaching materials, especially documents and online platforms. UDL is different from WCAG, so I find that there’s a lot to be learned from it for content design.
