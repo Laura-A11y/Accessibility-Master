@@ -35,7 +35,8 @@ These are commonly used when talking/writing about accessibility and inclusion:
 ## Courses
 - [Digital Accessibility Foundations by W3C](https://www.w3.org/WAI/courses/foundations-course/)
 - [Building for Everyone Series by GDG Vienna](https://gdg.community.dev/events/details/google-gdg-vienna-presents-getting-started-with-designing-for-web-accessibility-2025-01-23/) also recorded on [Accessibility First](https://www.accessibilityfirst.at/webinar-series)
-- [DHS Trusted Tester Certification Study Group by GDG Vienna](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-1-what-is-section-508-functional-performance-criteria-and-testing-tools/) (ongoing + recorded)
+- [DHS Trusted Tester Certification Study Group by GDG Vienna](https://gdg.community.dev/events/details/google-gdg-vienna-presents-dhs-trusted-tester-study-group-1-what-is-section-508-functional-performance-criteria-and-testing-tools/)
+- see also [Free Accessibility Certifications](https://github.com/Laura-A11y/Accessibility-Master/blob/b321ff0e1c8d615694ea01fc13d31d14a43c9e29/Free%20Accessibility%20Certifications.md)
 
 # Web Accessibility Testing Tools
 - [WAVE](https://wave.webaim.org/) Tool by WebAIM: An automatic testing tool that provides WCAG references for each error, alert, and feature it finds. As with every automatic testing tool, none of them is perfect, but getting acquainted with this one in particular is particularly helpful because the [WebAIM Million Report](https://webaim.org/projects/million/) uses it. Learning the limitations of automated testing will help you interpret the findings better.
