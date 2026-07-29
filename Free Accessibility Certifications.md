@@ -44,3 +44,8 @@ The course also explores why a single, well-designed solution is better than mul
 - **Introduction to Web Accessibility from a User Perspective**: Really, really good one to combine with any other on this list! It centers the experience of people with disabilities and offers tools, solutions and practical exercises. The 4 Modules are divided into: Vision, Hearing, Cognition, and Motor.
 I want to highlight the video on: [How a Blind Developer Uses Visual Studio](https://www.youtube.com/watch?v=wKISPePFrIs)
 - **Accessible Learning and Teaching**: Structured into 2 weeks (with ~20 minutes per day), the course introduces you to WCAG and the gang, but zones in on Universal Design for Learning (UDL) and how web accessibility applies to teaching materials, especially documents and online platforms. UDL is different from WCAG, so I find that there’s a lot to be learned from it for content design.
+
+## Advanced
+### [DHS Section 508 Trusted Tester](https://www.dhs.gov/publication/trusted-tester-resources)
+It is a free course that teaches you every step of accessibility conformance testing for ICT according to Section 508. While there’s a case to be made that “compliant” doesn’t automatically equate to “accessible”, it still covers a lot and is highly specific to software testing. POUR principles and WCAG are extensively covered, yet I wouldn’t recommend it for beginners.
+Check out the study group for it: https://github.com/Laura-A11y/GDG-Study-Group
