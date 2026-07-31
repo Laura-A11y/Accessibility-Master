@@ -58,6 +58,9 @@ These are commonly used when talking/writing about accessibility and inclusion:
 - Does this image need alt text? Follow the [alt-text decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/) by W3C
 - Need some inspiration for what to write? The Nielsen Norman Group has a good article to get you started: [NNG Write Alt Text](https://www.nngroup.com/articles/write-alt-text/)
 
+## Screen Readers
+- [What can't I press](https://github.com/ericwbailey/what-cant-i-press): lists what keyboard shortcuts are claimed
+
 ## Universal Design
 - [Center of Universal Design](https://design.ncsu.edu/research/center-for-universal-design/)
 - [Universal Design for Learning](https://www.nea.org/professional-excellence/student-engagement/tools-tips/universal-design-learning-introduction) (UDL) – The Why, What, and How of Learning. Especially relevant if you are developing courses, onboarding material, or professional‑development content.
@@ -87,6 +90,7 @@ These are commonly used when talking/writing about accessibility and inclusion:
 - [Scott O’Hara](https://www.scottohara.me/)
 - [Eric Eggert](https://yatil.net/)
 - [Makoto Ueki](https://weba11y.jp/news/) (a11y Specialist, Infoaxia, Inc.)
+- [Eric Bailey](https://ericwbailey.design/) 
 
 # Advanced:
 - [DOM accessibility tree](https://developer.chrome.com/blog/full-accessibility-tree)
