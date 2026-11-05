@@ -47,6 +47,16 @@ These are commonly used when talking/writing about accessibility and inclusion:
 - [NVDA](https://www.nvaccess.org/download/), a free screen reader
 - Wondering what screen readers people use? Consult the latest [WebAIM screen reader survey](https://webaim.org/projects/screenreadersurvey10/).
 
+## PDF Accessibility
+- [PDF-Accessiblity Checker](https://pdfua.foundation/en/pdf-accessibility-checker-pac/)
+- [PDF-Accessiblity with Adobe Acrobat](https://helpx.adobe.com/africa/acrobat/using/create-verify-pdf-accessibility.html)
+  - [video tutorial](https://www.youtube.com/watch?v=ndNuOHeA4CI)
+- [PDF cheatsheets](https://ncdae.org/resources/cheatsheets/#msword-pdf]
+
+### Other sources: 
+- https://www.umt.edu/accessibility/electronic-accessibility/guidelines/documents/pdf.php
+- https://americananthro.org/accessibility/pdf-document-tips/
+
 ## Browser Extensions
 - [Colorless A11Y - Color blindness empathy test](https://vinceumo.github.io/A11Y-Color-Blindness-Empathy-Test/)
 - [WAVE Chrome Extension](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) 
